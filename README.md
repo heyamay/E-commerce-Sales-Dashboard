@@ -28,7 +28,7 @@ Key Features:
 - Profit-Loss Trends: Monthly profit-loss tracking for each quarter, identifying critical periods of growth and downturns.  
 
 - Payment Methods: Analyzed customer preferences, with Cash on Delivery (44%) being the dominant payment method, followed by UPI and Debit/Credit cards.
-- 
+
 - Sub-Category Profit Analysis: Examined profits by sub-categories like Printers, Bookcases, Sarees, and Accessories to focus on high-profit areas.
 
 Tools Used:
