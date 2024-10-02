@@ -19,16 +19,22 @@ This dashboard shows how data can be turned into useful insights. It helps in tr
 
 Key Features:
 
-Total Sales & Profit Analysis: Tracked the sum of sales amount (438K) and total profit (37K) to monitor overall business performance.
-Top Regions & Customers: Visualized the top contributing states (Maharashtra, Madhya Pradesh, Uttar Pradesh) and highest-spending customers to identify target areas.
-Category-Wise Sales Breakdown: Showcased product sales distribution, with Clothing accounting for 63% of sales, followed by Electronics and Furniture.
-Profit-Loss Trends: Monthly profit-loss tracking for each quarter, identifying critical periods of growth and downturns.
-Payment Methods: Analyzed customer preferences, with Cash on Delivery (44%) being the dominant payment method, followed by UPI and Debit/Credit cards.
-Sub-Category Profit Analysis: Examined profits by sub-categories like Printers, Bookcases, Sarees, and Accessories to focus on high-profit areas.
+- Total Sales & Profit Analysis: Tracked the sum of sales amount (438K) and total profit (37K) to monitor overall business performance.  
+
+- Top Regions & Customers: Visualized the top contributing states (Maharashtra, Madhya Pradesh, Uttar Pradesh) and highest-spending customers to identify target areas.  
+
+- Category-Wise Sales Breakdown: Showcased product sales distribution, with Clothing accounting for 63% of sales, followed by Electronics and Furniture.  
+
+- Profit-Loss Trends: Monthly profit-loss tracking for each quarter, identifying critical periods of growth and downturns.  
+
+- Payment Methods: Analyzed customer preferences, with Cash on Delivery (44%) being the dominant payment method, followed by UPI and Debit/Credit cards.
+- 
+- Sub-Category Profit Analysis: Examined profits by sub-categories like Printers, Bookcases, Sarees, and Accessories to focus on high-profit areas.
+
 Tools Used:
 
-Power BI for interactive data visualization and insights.
-Data Sources: CSV files and sales records for historical performance data.
+- Power BI for interactive data visualization and insights.
+- Data Sources: CSV files and sales records for historical performance data.
 
 I'm proud of what I've achieved with this project and look forward to applying this level of data analysis to future projects!
 
